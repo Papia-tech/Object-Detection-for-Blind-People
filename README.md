@@ -2,7 +2,7 @@
 
 An Arduino-based assistive technology project designed to help visually impaired individuals detect nearby obstacles and receive real-time alerts for safer navigation.
 
-![Project Preview](Images/project-overview.jpeg)
+![Project Preview](Images/circuit-diagram.png)
 
 ## 📌 Overview
 
